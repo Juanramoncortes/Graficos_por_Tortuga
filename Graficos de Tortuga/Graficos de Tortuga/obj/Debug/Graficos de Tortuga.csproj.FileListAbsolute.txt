@@ -1,0 +1,10 @@
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\bin\Debug\Graficos de Tortuga.exe.config
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\bin\Debug\Graficos de Tortuga.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\bin\Debug\Graficos de Tortuga.pdb
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\obj\Debug\Graficos de Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\obj\Debug\Graficos_de_Tortuga.Form1.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\obj\Debug\Graficos_de_Tortuga.Properties.Resources.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\obj\Debug\Graficos de Tortuga.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\obj\Debug\Graficos de Tortuga.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\obj\Debug\Graficos de Tortuga.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Graficos de Tortuga\Graficos de Tortuga\obj\Debug\Graficos de Tortuga.pdb
