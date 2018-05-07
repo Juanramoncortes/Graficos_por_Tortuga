@@ -125,9 +125,6 @@ namespace Graficos_de_Tortuga
 
         public int Datos(string[] datos)
         {
-            //2,5:12,3,5:12,3,5:12,3,5:12,1,6,7
-           // int cantidad=0;
-
                 for (int i = 0; i < datos.Length; i++)
                 {
                     int num = 0;
